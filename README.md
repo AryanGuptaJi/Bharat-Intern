@@ -37,6 +37,9 @@ Video Conferencing Website is a video chat system developed as Task 2 for the Bh
 ## Technology Used
 - ReactJs
 - NodeJs
+- Socket.io
+- WebRTC
+- CSS3
 
 ## Tool Used
 - VS Code
